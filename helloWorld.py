@@ -1,7 +1,7 @@
 # helloWorld.py
 
-# Accept input from the user
+# Prompt the user for input
 user_input = input("Enter something: ")
 
-# Print out the inputted data
+# Display the user's input
 print("You entered:", user_input)
